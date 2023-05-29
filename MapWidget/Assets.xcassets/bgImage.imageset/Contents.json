@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "bgImage.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
